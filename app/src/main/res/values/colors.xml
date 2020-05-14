@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5FA776</color>
+    <color name="colorPrimaryDark">#494848</color>
+    <color name="colorAccent">#B4ECCD</color>
+    <color name="coklatBg">#F7C376</color>
+    <color name="hitam">#000000</color>
+    <color name="merah">#F15555</color>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KangCukur</string>
+    <string name="tukang_cukur">Tukang Cukur</string>
+    <string name="pelanggan">Pelanggan</string>
+    <string name="no_hp">No. HP</string>
+    <string name="isikan_nomor_hp">Isikan nomor HP</string>
+    <string name="nama">Nama</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="isikan_nama">Isikan nama</string>
+    <string name="isikan_lokasi">Isikan lokasi</string>
+    <string name="lihat_antrian">Lihat Antrian</string>
+    <string name="lihat_peta">Lihat Peta</string>
+    <string name="jumlah_antrian">Jumlah Antrian</string>
+    <string name="edit_profil">Edit Profil</string>
+    <string name="hapus_akun">Hapus Akun</string>
+    <string name="simpan">SIMPAN</string>
+</resources>

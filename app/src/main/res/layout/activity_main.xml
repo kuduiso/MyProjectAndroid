@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <ImageView
+        android:layout_width="180dp"
+        android:layout_height="120dp"
+        android:src="@drawable/logocukur_sm"
+        android:layout_gravity="center"
+        android:layout_marginBottom="32dp"/>
+    <Button
+        android:id="@+id/btn_kangcukur"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="@string/tukang_cukur"
+        android:textColor="#fff"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/button"/>
+    <Button
+        android:id="@+id/btn_pelanggan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pelanggan"
+        android:textColor="#fff"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/button"/>
+
+</androidx.appcompat.widget.LinearLayoutCompat>
